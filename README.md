@@ -1,8 +1,6 @@
 <p>
   <h3>
-ABS (Alternative Banking System) is a project done in a java course in the Academic college of tel-aviv yaffo.    
-ABS is a desktop application with a server, customer client and admin client. ABS Simulates a banking system, handles by customers, in there customers can take and loan to each other.
-YAZ is a time unit in ABS, only admin can forward the time.
+ABS (Alternative Banking System) is a project developed as part of a Java course at the Academic College of Tel-Aviv Yaffo. It is a desktop application featuring a server, customer client, and admin client, simulating a banking system where customers can issue loans to each other. The system uses a time unit called YAZ, which can only be advanced by the admin.
   </h3>
 </p>
 
