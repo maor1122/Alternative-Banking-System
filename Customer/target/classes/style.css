@@ -1,0 +1,65 @@
+.button {
+    -fx-text-fill: WHITE;
+    -fx-background-color: GRAY;
+}
+
+.grid, .border{
+    -fx-background-color: DARKGRAY;
+}
+
+.tableView, .combo-box, .table-row-cell{
+    -fx-background-color: DIMGRAY;
+    -fx-text-fill: WHITE;
+}
+.combo-box .list-cell {
+    -fx-text-fill: WHITE;
+}
+
+.list-view{
+    -fx-background-color: DIMGRAY;
+}
+.list-view .list-cell{
+    -fx-background-color: GRAY;
+    -fx-text-fill: WHITE;
+}
+.list-view .list-cell:selected, .table-row-cell:selected{
+    -fx-background-color: DARKSLATEGRAY;
+}
+
+
+.table-view .column-header-background,.table-view .column-header, .table-view .corner, .table-view .column-header-background .filler {
+    -fx-background-color: DIMGRAY;
+    -fx-border-color: BLACK;
+}
+.table-view .table-cell{
+    -fx-border-color: transparent;
+}
+
+.table-view .column-header{
+    -fx-text-fill: WHITE;
+}
+
+.text-area .content, .text-field {
+    -fx-text-fill: WHITE;
+    -fx-background-color: DIMGRAY;
+}
+.text-area,.text-area .content{
+    -fx-fill: DIMGRAY;
+    -fx-background-color: DIMGRAY;
+    -fx-text-fill: WHITE;
+}
+.label{
+    -fx-text-fill: WHITE;
+}
+
+.noticeLabel{
+    -fx-text-fill: DARKGREEN;
+}
+
+.warningLabel{
+    -fx-text-fill: DARKRED;
+}
+
+.table-cell, .column-header .label{
+    -fx-text-fill: WHITE;
+}
